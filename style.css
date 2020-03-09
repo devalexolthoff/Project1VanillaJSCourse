@@ -1,0 +1,38 @@
+body {
+    background-color: #ffd;
+}
+div {
+    margin: 10% 35% 50% 35%;
+    background-color: white;
+    padding: 60px;
+    box-shadow: whitesmoke;
+}
+h2{
+    text-align: center;
+}
+label, input {
+    display: block;
+    width: 100%;
+}
+input[type="submit"]{
+    margin-top: 40px;
+    background-color: blue;
+    color: white;
+    padding: 15px 0;
+}
+
+label {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-weight: lighter;
+}
+.invalid {
+    border: 1px solid red;
+}
+.valid {
+    border: 1px solid green;
+}
+small {
+    color: red;
+    font-size: xx-small;
+}
