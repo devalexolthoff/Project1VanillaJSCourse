@@ -1,0 +1,3 @@
+### A QUICK NOTE
+
+This repository is the first of 20 that follows Brad Traversy's 20 Projects With Vanilla Javascript. I have decided to try to build my own version of the projects, then watch the course and see how he did it. In between, I'll push the completed project (my version) to github on the master branch. I'll also have a branch called "Traversy" that shows how he did it. The README in that branch will have an extra notice indicating the major differences between the branches.
